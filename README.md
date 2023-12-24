@@ -1,5 +1,5 @@
 # Belajar4
-git clone https://github.com/belajar4/bakarroti/bakarroti.git
+git clone https://github.com/belajar4/bakarroti.git
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y

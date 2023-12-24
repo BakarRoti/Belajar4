@@ -5,4 +5,4 @@ apt install git -y
 apt install python -y
 cd Bakarroti
 pip install -r install.txt
-python brutal.py
+python bakarroti.py
